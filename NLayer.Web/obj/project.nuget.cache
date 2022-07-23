@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1OWkl2OCEzYvC9lNcYaDgXkc2/4AMjq8KS2tRAWEvZZG0SYYzsjV845o5CeChrmz8VrmTyPVpJpPJS9B4eHyqg==",
+  "dgSpecHash": "5uSTbnGQISBvRymgf6FL7I8vE/mgOKozFpVjN9rGu9VnHZA2PE2EtdrlbtGiJqchPbPzYFZBY6HSoe14TvgOOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Enver\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Enver\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Enver\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Enver\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Enver\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Enver\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Enver\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
