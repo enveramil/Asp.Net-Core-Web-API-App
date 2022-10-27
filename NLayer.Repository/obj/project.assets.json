@@ -1885,11 +1885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Enver\\Source\\Repos\\Asp.Net-Core-Web-API-App\\NLayer.Repository\\NLayer.Repository.csproj",
       "projectName": "NLayer.Repository",
-      "projectPath": "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+      "projectPath": "C:\\Users\\Enver\\Source\\Repos\\Asp.Net-Core-Web-API-App\\NLayer.Repository\\NLayer.Repository.csproj",
       "packagesPath": "C:\\Users\\Enver\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Enver\\Source\\Repos\\Asp.Net-Core-Web-API-App\\NLayer.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Enver\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1906,8 +1906,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
-              "projectPath": "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj"
+            "C:\\Users\\Enver\\Source\\Repos\\Asp.Net-Core-Web-API-App\\NLayer.Core\\NLayer.Core.csproj": {
+              "projectPath": "C:\\Users\\Enver\\Source\\Repos\\Asp.Net-Core-Web-API-App\\NLayer.Core\\NLayer.Core.csproj"
             }
           }
         }

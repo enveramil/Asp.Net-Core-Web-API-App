@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQpRJyxejAzMLgXd/jVQ8ZqUPIiNhTPDHHhbTkXKqE/8iB2SvPSSj48EchPu7Q9Jx+mU7f6bes7pzoNFfLKVwQ==",
+  "dgSpecHash": "zp8M1+dDmsGt3muQdU6MWrfbues7BEO+h76PXxqxcIXJvXOvhiya18p49zvxg6UyYsq2umA1zWgNFbQ5Xdp2nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Enver\\source\\repos\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+  "projectFilePath": "C:\\Users\\Enver\\Source\\Repos\\Asp.Net-Core-Web-API-App\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Enver\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Enver\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
